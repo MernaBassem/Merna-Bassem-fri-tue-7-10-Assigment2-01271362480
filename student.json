@@ -1,0 +1,17 @@
+[
+    {
+        "id": 2,
+        "name": "merna",
+        "email": "merna421@gmail.com",
+        "password": "Merna@2112002",
+        "departmentId": "1"
+    },
+    {
+        "id": 3,
+        "name": "MOHRA",
+        "email": "merna4y21@gmail.com",
+        "password": "Merna@2112002",
+        "departmentId": "1"
+    }
+]
+

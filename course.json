@@ -1,0 +1,14 @@
+[
+    {
+        "id": 3,
+        "name": "cs",
+        "content": "courses java",
+        "departmentId": "1"
+    },
+    {
+        "id": 1,
+        "name": "JAVA",
+        "content": "courses java",
+        "departmentId": "2"
+    }
+]
